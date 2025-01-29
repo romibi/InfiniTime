@@ -4,6 +4,7 @@
 - [Font Awesome](https://fontawesome.com/v5/cheatsheet/free/solid)
 - [Open Sans Light](https://fonts.google.com/specimen/Open+Sans)
 - [Material Symbols](https://fonts.google.com/icons)
+- [Noto Sans CJK](https://github.com/notofonts/noto-cjk/)
 
 ### How to add new symbols:
 
